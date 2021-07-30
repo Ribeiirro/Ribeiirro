@@ -9,10 +9,11 @@ I'm an statistics student at Universidade Federal Fluminense.
 
 My interests span R, Python, Data Science, Machine Learning, Statistics, Read and Music.
 
-Feel free to see my repositories here on github. :octocat:
+Feel free to see my repositories here on github. 
 
  -->
-## Hi 👋, 
+ :octocat:
+ ## Hi, 
 My name is José Ribeiro, i'm **Information Security and Systems Development Student**. 
 
 -  ⚡ Techs: <div align="center"> ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -24,8 +25,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=dracula" />
 </a>
 
-
-## Contact
+### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-José_Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josekcarvalho/)](https://www.linkedin.com/in/josekcarvalho/)
- [![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com) 
 
