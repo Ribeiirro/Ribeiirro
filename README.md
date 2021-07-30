@@ -11,7 +11,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=dracula" />
 </a>
 
-### Contact
+# Contact
 [![Linkedin Badge](https://img.shields.io/badge/-José_Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josekcarvalho/)](https://www.linkedin.com/in/josekcarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com) 
  :octocat:
