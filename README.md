@@ -19,5 +19,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
 <div align="center">
  
 [![Linkedin Badge](https://img.shields.io/badge/-José_Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josekcarvalho/)](https://www.linkedin.com/in/josekcarvalho/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com) </div>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com)
+[![gmail](https://img.shields.io/badge/gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:bortolettohenrique@gmail.com)
+</div>
 <!--  :octocat: -->
