@@ -16,9 +16,9 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
  
 ### Contact _:octocat:
 
-<div align="center">
+<!-- <div align="center">
  
-</div>
+</div> -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-José_Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josekcarvalho/)](https://www.linkedin.com/in/josekcarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com) -->
 [![gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:joseribeirocsr@gmail@gmail.com)
