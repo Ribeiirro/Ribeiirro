@@ -12,7 +12,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=dracula" />
 </a>
 
-
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=dracula) -->
  
 ### Contact _:octocat:
 
