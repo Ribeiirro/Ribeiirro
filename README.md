@@ -9,7 +9,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
   <img align="" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/cjhota/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=tokyonight" />
 </a>
 
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=dracula) -->
