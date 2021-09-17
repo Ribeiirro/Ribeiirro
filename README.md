@@ -6,9 +6,11 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
 ---
  <div align="center"> 
  
- -  ### Technology : 
+### Technology : 
 
 </div> 
+
+ <div align="center"> 
 
 ![Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
@@ -17,6 +19,8 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
+ 
+</div> 
 
 ---
 <!--  dracula -->
