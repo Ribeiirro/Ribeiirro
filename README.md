@@ -2,7 +2,13 @@
  ## Hello, 
 My name is José Ribeiro, i'm **Information Security and Systems Development Student**. 
 
--  ## Technology :<div align="center"> ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+-  ## Technology :<div align="center">
+![Badge](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 </div>
 <!--  dracula -->
 <a href="https://github.com/cjhota/github-readme-stats">
