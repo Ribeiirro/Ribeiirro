@@ -24,9 +24,14 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
 
 ---
 <!--  dracula -->
-<a href="https://github.com/cjhota/github-readme-stats">
+<a href="https://github.com/cjhota">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=tokyonight" />
 </a>
+
+<!-- <a href="https://github.com/cjhota/convoychat">
+  <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=cjhota&hide_border=true&theme=tokyonight&show_icons=true" />
+</a> -->
+
 <a href="https://github.com/cjhota/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=tokyonight" />
 </a>
