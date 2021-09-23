@@ -32,7 +32,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=cjhota&hide_border=true&theme=tokyonight&show_icons=true" />
 </a> -->
 
-<a href="https://github.com/cjhota/convoychat">
+<a href="https://github.com/cjhota">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=tokyonight" />
 </a>
 
