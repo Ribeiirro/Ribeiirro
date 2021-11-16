@@ -2,6 +2,7 @@
 ### Hello, 
 My name is José Ribeiro, i'm **Information Security and Systems Development Student**. 
 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cjhota&color=blue" alt="Profile views" /> </p> -->
 
 ---
  <div align="center"> 
