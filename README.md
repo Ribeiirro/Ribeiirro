@@ -19,7 +19,7 @@ My name is José Ribeiro, i'm **Information Security and Systems Development Stu
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-
+![PHP](https://img.shields.io/badge/-PHP-8B89CC?style=flat-square&logo=php&logoColor=ffffff)
  
 </div> 
 
