@@ -25,28 +25,28 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
 
 ---
 <!--  dracula -->
-<a href="https://github.com/cjhota">
+<!-- <a href="https://github.com/cjhota">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=tokyonight" />
 </a>
-
+ -->
 <!-- <a href="https://github.com/cjhota/convoychat">
   <img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=cjhota&hide_border=true&theme=tokyonight&show_icons=true" />
 </a> -->
 
-<a href="https://github.com/cjhota">
+<!-- <a href="https://github.com/cjhota">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=tokyonight" />
 </a>
-
+ -->
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=dracula) -->
  
-### Contact _:octocat:
+<!-- ### Contact _:octocat: -->
 
 <!-- <div align="center">
  
 </div> -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-José_Ribeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josekcarvalho/)](https://www.linkedin.com/in/josekcarvalho/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail_José_Ribeiro-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joseribeirocsr@gmail.com)](mailto:joseribeirocsr@gmail.com) -->
-[![gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:joseribeirocsr@gmail@gmail.com)
-[![linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/josekcarvalho/)
+<!-- [![gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&labelColor=white)](mailto:joseribeirocsr@gmail@gmail.com)
+[![linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/josekcarvalho/) -->
 
 <!--  :octocat: -->
