@@ -29,10 +29,11 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=tokyonight" alt="cjhota's stats"/>
-
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&layout=compact&theme=tokyonight" alt="cjhota's most languages"/><!-- -->
 </p>
 
+<p align="right">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&layout=compact&theme=tokyonight" alt="cjhota's most languages"/><!-- -->
+</p>
 <br><br>
 
 <!--  dracula -->
