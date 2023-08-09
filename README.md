@@ -24,6 +24,16 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
 </div> 
 
 ---
+
+<!--## ⚙️ &nbsp;GitHub Analytics-->
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=tokyonight" alt="cjhota's stats"/>
+<!--<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>-->
+</p>
+
+<br><br>
+
 <!--  dracula -->
 <!-- <a href="https://github.com/cjhota">
   <img align="" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=tokyonight" />
