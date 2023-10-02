@@ -18,7 +18,7 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) -->
 <!--![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) -->
 <!--![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)-->
-<!--![React][(https://img.shields.io/badge/-Reactjs-black?style=flat-square&logo=React.js) -->
+<!--![Reactjs][(https://img.shields.io/badge/-Reactjs-blue?style=flat-square&logo=React.js) -->
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![PHP](https://img.shields.io/badge/-PHP-8B89CC?style=flat-square&logo=php&logoColor=ffffff)
  
