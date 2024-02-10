@@ -21,6 +21,7 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
 <!--![Reactjs][(https://img.shields.io/badge/-Reactjs-blue?style=flat-square&logo=React.js) -->
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ![PHP](https://img.shields.io/badge/-PHP-8B89CC?style=flat-square&logo=php&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-C3002F?style=flat-square&logo=Angular&logoColor=ffffff)
  
 </div> 
 
