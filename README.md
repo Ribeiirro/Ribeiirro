@@ -29,18 +29,18 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
 
 
 <div align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cjhota&theme=react&date_format=j%20M%5B%20Y%5D">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ribeiirro&theme=react&date_format=j%20M%5B%20Y%5D">
 </div>
 <hr />
 <!--## ⚙️ &nbsp;GitHub Analytics-->
 <details>
   <summary> Detalhes</summary>
   <br/>
-<a href="https://github.com/cjhota/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cjhota&show_icons=true&theme=dracula" />
+<a href="https://github.com/Ribeiirro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ribeiirro&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/cjhota/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjhota&theme=dracula" />
+<a href="https://github.com/Ribeiirro/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiirro&theme=dracula" />
 </a>
 
 
