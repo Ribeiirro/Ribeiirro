@@ -37,10 +37,11 @@ It's José Ribeiro, i'm **Information Security and Systems Development Student**
   <summary> Detalhes</summary>
   <br/>
 <a href="https://github.com/Ribeiirro/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ribeiirro&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ribeiirro&show_icons=true&theme=react" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ribeiirro&show_icons=true&theme=dracula" /> -->
 </a>
 <a href="https://github.com/Ribeiirro/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiirro&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiirro&theme=react" />
 </a>
 
 
