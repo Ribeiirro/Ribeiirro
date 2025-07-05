@@ -6,7 +6,7 @@
 Olá! Eu sou **José Ribeiro**, desenvolvedor full stack, apaixonado por tecnologias, automação e soluções criativas. Com experiência em back-end e front-end, busco sempre criar aplicações eficientes e com ótimo desempenho.
 
 - 🚀 Foco em performance, boas práticas e inovação.
-- 📚 Estudando Flutter, Qwik e Clean Architecture.
+- 📚 Estudo Java.
 - 🎯 Sempre em busca de evoluir com projetos desafiadores.
 - ✨ Entusiasta de código limpo, open source e Linux.
 
